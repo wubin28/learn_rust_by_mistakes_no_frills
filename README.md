@@ -83,7 +83,7 @@ In short, CC BY-NC-ND 4.0 is a relatively strict license. It allows free sharing
 
 ## Book Code
 
-You can download the code for this book from our GitHub repository at https://github.com/wubin28/learn_rust_by_mistakes_no_frills. We've made it easy for you to find and run each code listing by annotating its specific location in the repository. The repository is neatly organized by chapters, following the format "chxx" (where "xx" represents the chapter number).
+You can download the code for this book from our GitHub repository at https://github.com/wubin28/learn_rust_by_mistakes_no_frills. We've made it easy for you to find and run each code listing by annotating its specific location in the repository. The repository is neatly organized by chapters, following the format "chxx" (where "xx" represents the chapter number). Folders without the "cpp_" prefix contain Rust source code.
 
 ## Frequently Asked Questions
 
