@@ -8,7 +8,7 @@ Illustration: Generative AI: A few green leaves on a branch, showing obvious sig
 
 ## Introduction
 
-"Learn Rust by Mistakes" is an e-book published under the CC BY-NC-ND 4.0 license. It introduces the Rust programming language through a unique approach: learning by encountering and avoiding common pitfalls. This book explores the typical traps and errors faced while learning and using Rust, making the learning process more engaging, enjoyable, and motivating.
+"Learn Rust by Mistakes: The No-Frills Edition" is a limited-sharing e-book released under the CC BY-NC-ND 4.0 license. It introduces the Rust programming language through a unique approach: learning by encountering and overcoming common pitfalls. This book explores typical traps and errors faced while learning and using Rust, making the learning process more engaging, enjoyable, and motivating.
 
 This book is ideal for readers with experience in at least one programming language. If you're new to programming, we suggest starting with popular languages like Python, mastering the basics—perhaps with the aid of generative AI—before diving into Rust. Once you've grasped fundamental programming concepts, this book will guide you through Rust's core features. By learning from mistakes, you'll gain a deeper understanding of Rust's strengths and how to apply them effectively.
 

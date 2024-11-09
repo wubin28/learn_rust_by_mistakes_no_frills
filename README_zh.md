@@ -7,7 +7,7 @@
 
 ## 引言
 
-《入门Rust靠踩坑》是一本遵循CC BY-NC-ND 4.0许可协议的电子书。它以独特的方式介绍Rust编程语言：通过踩坑和避坑来学习。本书探索学习和使用Rust过程中常见的陷阱和错误，旨在让学习过程更加引人入胜、富有乐趣和充满动力。
+《入门Rust靠踩坑》（极简版）是一本遵循CC BY-NC-ND 4.0许可协议的有限共享电子书。它以独特的方式介绍Rust编程语言：通过踩坑和避坑来学习。本书探索学习和使用Rust过程中常见的陷阱和错误，旨在让学习过程更加引人入胜、富有乐趣和充满动力。
 
 本书特别适合已有至少一门编程语言经验的读者。如果你是编程新手，我们建议先从Python等流行语言入手，在生成式AI的帮助下掌握基础知识后再深入学习Rust。一旦你掌握了基本的编程概念，本书将引导你学习Rust的核心概念和特性。通过从错误中学习，你将更深入地理解Rust的优势，并学会如何有效地运用它们。
 
@@ -62,7 +62,7 @@
 
 ## 版权许可协议
 
-[《入门Rust靠踩坑：极简版》](https://github.com/wubin28/learn_rust_by_mistakes_no_frills)© 2024，作者 [吾真本](https://github.com/wubin28)，采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 许可协议
+[《入门Rust靠踩坑：极简版》](https://github.com/wubin28/learn_rust_by_mistakes_no_frills)© 2024，作者 [吾真本](https://github.com/wubin28)，采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 许可协议。
 
 本书采用知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议（CC BY-NC-ND 4.0）进行许可。
 
