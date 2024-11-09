@@ -1,4 +1,4 @@
-# 《入门Rust靠踩坑》
+# 《入门Rust靠踩坑》（极简版）
 [*English Version*](README.md)
 
 ![image-cover.webp](image-cover.webp)
