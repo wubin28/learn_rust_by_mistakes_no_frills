@@ -1,0 +1,6 @@
+[package]
+name = "dangling_danger_rust_avoid_dangling_pointers_with_references"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
