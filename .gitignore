@@ -1,0 +1,13 @@
+# Rust specific ignores
+**/target/
+**/*.rs.bk
+
+# Optional files and directories
+# - IDE directories
+**/.idea/
+**/.vscode/
+**/.vs/
+
+# OS generated files
+**/.DS_Store
+**/.Thumbs.db
