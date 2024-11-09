@@ -25,7 +25,7 @@ The chapter titles in this book will be continually optimized and adjusted throu
 
 ### Part I Building An Embedded Application
 
-- Chapter 1 Avoiding C++-style Memory Safety Pitfalls
+- [Chapter 1 Avoiding C++-style Memory Safety Pitfalls](./ch01/ch01.md)
 - Chapter 2 Variables are Immutable by Default?!
 - Chapter 3 Ownership Actually Moves?!
 - Chapter 4 Common Pitfalls with Structs
