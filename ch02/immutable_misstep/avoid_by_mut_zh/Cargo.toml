@@ -1,0 +1,6 @@
+[package]
+name = "avoid_by_mut_zh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
